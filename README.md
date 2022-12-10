@@ -21,8 +21,9 @@ This course assignments introduces methods for four key aspects of data science:
   * Clustering and more...
 
 
-[1] https://en.wikipedia.org/wiki/Data_mining
+[1] [What is data mining?](https://en.wikipedia.org/wiki/Data_mining)
 
-[2] https://www-users.cse.umn.edu/~kumar001/dmbook/index.php
+[2] [Full course content](https://www-users.cse.umn.edu/~kumar001/dmbook/index.php)
 
+[3] [Course book](https://icourse.club/uploads/files/154047b04cec59e96abf82fd882236d39f0e3be7.pdf)
 
