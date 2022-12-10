@@ -23,7 +23,7 @@ This course assignments introduces methods for four key aspects of data science:
 
 [1] https://en.wikipedia.org/wiki/Data_mining
 
-
-[#2] https://www-users.cse.umn.edu/~kumar001/dmbook/index.php
+#2
+[2] https://www-users.cse.umn.edu/~kumar001/dmbook/index.php
 
 
