@@ -1,7 +1,7 @@
 # EEE314 Assignments
 ## Introduction to Data Mining
 
-This repository contains homeworks for the introduction to data mining course. For the full course content, see <a href="#2"><b>here</b></a>.
+This repository contains homeworks for the introduction to data mining course. For the full course content, see <a href="https://www-users.cse.umn.edu/~kumar001/dmbook/index.php"><b>here</b></a>.
 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kernel_Machine.svg/1920px-Kernel_Machine.svg.png" width="55%"></a>
@@ -23,7 +23,6 @@ This course assignments introduces methods for four key aspects of data science:
 
 [1] https://en.wikipedia.org/wiki/Data_mining
 
-## 2
 [2] https://www-users.cse.umn.edu/~kumar001/dmbook/index.php
 
 
